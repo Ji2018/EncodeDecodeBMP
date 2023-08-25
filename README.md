@@ -23,5 +23,7 @@ Additional Files:
 - test.txt and test_unencoded.bmp <- These files contain the text and unencoded images respectively, intended for the default encoding procedure.
 - encoded.bmp <- This image represents the result of encoding with letters.
 
+
+Code Structure:
    
 <img width="653" alt="Screenshot 2023-08-25 at 11 59 41" src="https://github.com/Ji2018/EncodeDecodeBMP/assets/40760742/476094ce-0dc7-4a83-ae8b-774d4fe24d96">
