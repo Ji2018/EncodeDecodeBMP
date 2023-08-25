@@ -14,6 +14,11 @@
 
 -> \"" is any String input whatever
 
+3. Other files:
+
+test.txt and test_unencoded.bmp <- text and unencoded images for the default encoding purpose.
+encoded.bmp <- This is the image that had been encoded with letters.
+
 
    
 <img width="653" alt="Screenshot 2023-08-25 at 11 59 41" src="https://github.com/Ji2018/EncodeDecodeBMP/assets/40760742/476094ce-0dc7-4a83-ae8b-774d4fe24d96">
