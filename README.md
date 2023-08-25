@@ -6,16 +6,16 @@ Encrypt an image in the BMP format using a customized encoding method, and subse
 
 Enabling the Encoding function:
 
-Utilize the Main function with the following inputs: (String path_of_raw_image, String path_of_txt), to perform text-to-image encoding. The result will be saved as .*_encoded.bmp.
+- Utilize the Main function with the following inputs: (String path_of_raw_image, String path_of_txt), to perform text-to-image encoding. The result will be saved as .*_encoded.bmp.
 
--> In case no input is specified, the encoding process will default to using the files test_unencoded.bmp and test.txt for encoding.
+- In case no input is specified, the encoding process will default to using the files test_unencoded.bmp and test.txt for encoding.
 
 
 Enabling the Decoding function:
 
-Invoke the Main function with these inputs: (String path_of_encoded_image, \""), in order to decode the content.
+- Invoke the Main function with these inputs: (String path_of_encoded_image, \""), in order to decode the content.
 
--> Here, the placeholder \"" can be replaced with any arbitrary String input.
+- Here, the placeholder \"" can be replaced with any arbitrary String input.
 
 
 Additional Files:
