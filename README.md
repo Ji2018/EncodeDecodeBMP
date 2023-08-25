@@ -1,24 +1,23 @@
 # EncodeDecodeBMP
- Encrypt an image in BMP format using a customized encoding way and then decrypt it using an internal function.
 
+Encrypt an image in the BMP format using a customized encoding method, and subsequently decrypt it using an internal function.
 
-1. Enable Encoding function:
-   
-   Input for Main ( String path_of_raw_image, String path_of_txt ) to encode the text into image and store as .*_encoded.bmp
+Enabling the Encoding function:
 
- -> If no input is provided, will use test file test_unencoded.bmp and test.txt for encoding purpose by default
+Utilize the Main function with the following inputs: (String path_of_raw_image, String path_of_txt), to perform text-to-image encoding. The result will be saved as .*_encoded.bmp.
 
-2. Enable Decoding function:
-   
-   Input for Main ( String path_of_encoded_image, "") to decode the content
+-> In case no input is specified, the encoding process will default to using the files test_unencoded.bmp and test.txt for encoding.
 
--> \"" is any String input whatever
+Enabling the Decoding function:
 
-3. Other files:
+Invoke the Main function with these inputs: (String path_of_encoded_image, \""), in order to decode the content.
 
-test.txt and test_unencoded.bmp <- text and unencoded images for the default encoding purpose.
-encoded.bmp <- This is the image that had been encoded with letters.
+-> Here, the placeholder \"" can be replaced with any arbitrary String input.
 
+Additional Files:
+
+test.txt and test_unencoded.bmp <- These files contain the text and unencoded images respectively, intended for the default encoding procedure.
+encoded.bmp <- This image represents the result of encoding with letters.
 
    
 <img width="653" alt="Screenshot 2023-08-25 at 11 59 41" src="https://github.com/Ji2018/EncodeDecodeBMP/assets/40760742/476094ce-0dc7-4a83-ae8b-774d4fe24d96">
