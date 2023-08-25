@@ -20,8 +20,8 @@ Enabling the Decoding function:
 
 Additional Files:
 
-- test.txt and test_unencoded.bmp <- These files contain the text and unencoded images respectively, intended for the default encoding procedure.
-- encoded.bmp <- This is an encoded image, which can be decrypted by decoding functions.
+- test.txt and test_unencoded.bmp <- The text and unencoded images respectively, are intended for the default encoding procedure.
+- encoded.bmp <- Encoded image, which can be decrypted by decoding functions.
 
 
 Code Structure:
